@@ -1,3 +1,8 @@
 Recovers some files from iphone (and probably ipod/ipad too)
 
 example of how to use it run.rb
+
+todo: 
+clean up the code a bit
+
+add a min filesize threshold
